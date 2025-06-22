@@ -1,0 +1,337 @@
+body {
+    background-image: linear-gradient(red,blue,black,green,pink,orange,#C36241 );
+}
+header {
+    font-size: 35px;
+    margin-left: 180px; 
+    color: rgb(115, 255, 0);
+}
+
+h1 {
+    margin-left: 180px;
+    color: yellow;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+h2{
+    margin-left: 180px;
+    color: yellow;
+}
+
+h3{
+    margin-left: 220px;
+    color: yellow;
+    font-size: 30px;
+}
+
+h4{
+margin-left: 220px;
+color: yellow;
+font-size: 25px;
+}
+
+h5{
+margin-left: 220px;
+color: yellow;
+font-size: 25px;
+}
+h6{
+margin-left: 250px;
+color: yellow;
+font-size: 25px;
+}
+.vudil{
+background-color: coral;
+padding: 10px;
+}
+
+.ryh{
+background-color: red;
+padding: 10px;
+}
+
+.lox{
+background-color: chartreuse;
+padding: 10px;
+}
+.chinazes{
+background-color: orangered;
+padding: 10px;
+}
+.mentoruTOP{
+background-color: I yellow;
+padding: 10px;
+color: black;
+}
+
+.ayf{
+background-color: hotpink;
+padding: 10px;
+color: black;
+}
+
+.hacaton{
+background-color: rgb(115, 255, 0);
+padding: 10px;
+color: black;
+}
+
+.vitalik{
+background-color: dodgerblue;
+padding: 10px;
+}
+
+h7{
+margin-left: 250px;
+color: yellow;
+font-size: 25px;
+}
+
+h8{
+margin-left: 220px;
+color: yellow;
+font-size: 25px
+}
+
+.kyky{
+background-color:crimson;
+padding: 10px;
+}
+
+img{
+width: 45%;
+}
+
+article{
+width: 45%;
+float: left;
+}
+.bylbyl{
+position:relative;
+left: 800px;
+
+}
+.gybsuk{
+    position: relative;
+    left: -700px;
+}
+.charivni{
+    position:relative;
+left: 800px;
+}
+.planeta{
+  position: relative;
+    left: -700px;  
+}
+.begun{
+    position:relative;
+left: 800px;
+}
+.gele{
+    position: relative;
+    left: -700px;  
+}
+.ponchuk{
+    position:relative;
+left: 800px; 
+}
+.bylbyl{
+position:relative;
+left: 30%;
+}
+.bylbyl:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.gybsuk{
+position: relative;
+left: -30%;
+}
+
+.gybsuk:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.charivni{
+position:relative;
+left: 30%;
+}
+.charivni:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.mentoruTOP{
+    color: red;
+position: relative;
+left: -30%;
+}
+
+.mentoruTOP:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.planeta{
+position:relative;
+left: 30%;
+}
+.planeta:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.ryh{
+position: relative;
+left: -30%;
+}
+
+.ryh:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.begun{
+position:relative;
+left: 30%;
+}
+.begun:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.vudil{
+position: relative;
+left: -30%;
+}
+
+.vudil:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.gele{
+position:relative;
+left: 30%;
+}
+.gele:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.ayf{
+position: relative;
+left: -30%;
+}
+
+.ayf:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.ponchuk{
+position:relative;
+left: 30%;
+}
+.ponchuk:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.vitalik{
+position: relative;
+left: -30%;
+}
+
+.vitalik:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.micsa{
+position:relative;
+left: 30%;
+}
+.micsa:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.ozero{
+position: relative;
+left: -30%;
+}
+
+.ozero:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.hacaton{
+position:relative;
+left: 30%;
+}
+.hacaton:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.lis{
+position: relative;
+left: -30%;
+}
+
+.lis:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.kyky{
+position:relative;
+left: 30%;
+}
+.kyky:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.ida{
+position:relative;
+left: 30%;
+}
+.ida:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+
+.fakt{
+position: relative;
+left: -30%;
+}
+
+.fakt:hover{
+position:relative;
+left: 0px;
+transition: 3s;
+}
+.vukonav{
+    border: 20px solid blue;
+    font-size: 50px;
+    background-color: blue;
+}
